@@ -1,0 +1,6 @@
+rootProject.name='My Application'
+include ':app'
+include ':JavaTest'
+include ':annotation'
+//include ':animation'
+
